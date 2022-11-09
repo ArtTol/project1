@@ -1,6 +1,15 @@
 Little light have you seen
 You're supposed to be the one who bury me
+<<<<<<< HEAD
 
 It's alway red the static in my head
 It's alway red the static in my head
 ------------------------------------
+=======
+I love SP
+woow
+some content
+and here
+
+its always red the static in my head
+-----------------------------------
